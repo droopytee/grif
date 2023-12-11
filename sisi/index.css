@@ -1,9 +1,70 @@
-body{
+.flip{
     display: flex;
     justify-content: space-between;
-    list-style: none;
+list-style:none ;
+padding-left: 6%;
+  
 }
-#tee{
+#kip{
+padding-left: 9%;
+margin-left: 10%;  
+justify-content: space-between;
+
+}
+.ree{
     display: flex;
-    border: solid;
+   
+ 
+}
+body{
+  background: linear-gradient(black,red);
+  
+}
+#one{
+    flex-direction: column;
+    font-size: 100%;
+}
+.but{
+    margin: 30px;
+    background-color: RED;
+}
+.cee{
+    background-color: red;
+    margin: 30px;
+    font-size: 20px;
+}
+.fit{ display: flex;
+  justify-content: space-around;
+list-style:none ;
+padding-left: 50px;
+margin-left: 400px;
+width: 500px;
+}
+.rip{
+justify-content: space-around;
+    padding: 30px;
+
+}
+a{
+    color: white;
+    font-size: 20px;
+}
+.one{
+ s
+    justify-content: flex-end;
+}
+.pop{
+background-color: black;
+    margin: 150px;
+    padding: 100px;
+    width: 215px;
+}
+.pii{
+    margin: 30px;
+   font-size: 50px;
+    background-color: RED;  
+    justify-content: space-between;
+}
+.ppp{
+    justify-content: end;
 }
